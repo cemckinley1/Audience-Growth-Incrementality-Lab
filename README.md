@@ -91,7 +91,6 @@ audience-analytics-portfolio/
 ├── sql/
 │   ├── 01_audience_definition.sql
 │   └── 02_incrementality.sql
-└── build_portfolio.py
 ```
 
 ## Tools demonstrated
