@@ -28,7 +28,7 @@ A retail brand plans a spring re-engagement campaign across email and paid media
 
 ## Dataset
 
-The synthetic dataset contains 12,000 customer-level campaign records. No real customer or company data is used.
+The dataset contains 12,000 customer-level campaign records. No real customer or company data is used.
 
 | Field | Description |
 |---|---|
